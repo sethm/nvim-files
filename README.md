@@ -2,6 +2,10 @@
 
 Basic bootstrapping process:
 
+## Clone nvim-files
+
+    git clone git@github.com:sethm/nvim-files.git ~/.config/nvim
+
 ## Install packer
 
     git clone --depth 1 https://github.com/wbthomason/packer.nvim \
