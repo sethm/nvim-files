@@ -8,6 +8,9 @@ vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
+-- I hate the mouse
+vim.opt.mouse = ""
+
 -- Relative line numbers
 vim.opt.nu = true
 vim.opt.relativenumber = true
