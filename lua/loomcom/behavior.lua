@@ -31,7 +31,7 @@ vim.opt.isfname:append("@-@")
 
 vim.opt.updatetime = 50
 
-vim.opt.colorcolumn = "132"
+vim.opt.colorcolumn = ""
 
 -- Automatically change the working directory on buffer enter
 vim.api.nvim_create_autocmd(
